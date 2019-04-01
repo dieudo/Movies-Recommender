@@ -51,8 +51,7 @@ movie_recommendation <- function(input,input2,input3) {
 
 
 formatInput <- function(v,a,d){
-  ## This function formats the user's input of Valence-Arousal-Dominance
-  ## and outputs them as a vector
+  
   
   c(v,a,d)
 }
